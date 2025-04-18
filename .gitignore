@@ -1,0 +1,49 @@
+# Arquivos de ambiente e credenciais
+.env
+*.env
+
+# Pasta de cache e Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Ambiente virtual
+venv/
+env/
+ENV/
+
+# Arquivos de dados
+*.xlsx
+*.csv
+*.xls
+relatorios_excel/
+
+# Logs e outros
+*.log
+*.pot
+*.pyc
+local_settings.py
+
+# Arquivos temporários
+*.bak
+*.swp
+*~
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos de IDE
+.idea/
+.vscode/
+*.sublime*
+*.code-workspace
+
+# Arquivos de distribuição
+dist/
+build/
+*.egg-info/
