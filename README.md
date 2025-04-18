@@ -1,6 +1,6 @@
 # Autocofin - Sistema de Automação COFIN
 
-![Autocofin](https://github.com/user/repo/blob/main/assets/logo.png)
+[![autocofin.png](https://i.postimg.cc/X7sfQysC/autocofin.png)](https://postimg.cc/0bJKNrRk)
 
 Sistema de automação para o portal COFIN que permite processar números de série de forma automática.
 
@@ -22,7 +22,7 @@ Sistema de automação para o portal COFIN que permite processar números de sé
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/Novo-Autocofin.git
+   git clone https://github.com/Lucas-Bellini/Novo-Autocofin.git
    cd Novo-Autocofin
    ```
 
