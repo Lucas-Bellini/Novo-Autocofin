@@ -15,6 +15,7 @@ from webdriver_manager.microsoft import EdgeChromiumDriverManager
 IS_RUNNING = False
 IS_FINISHED = False
 IS_PAUSED = False  # Nova variável para controlar o estado de pausa
+ALERTAR_ERROS = True  # Nova variável para controlar alertas de erro
 STATUS = ""
 movimentados = 0
 total_itens = 0
